@@ -35,7 +35,7 @@ Feel free to use these notes for your reference, but remember that they are base
 
 In this repository, I'm also working on practical projects related to the Fastai course. You can find my project implementations in the [projects](/projects) directory.
 
-- [Project 1: Image Classification](/projects/project1)
+- [Project 1: Image Classification](/projects/fastAi_1_Donkey_Or_Horse.ipynb)
 - [Project 2: Natural Language Processing](/projects/project2)
 - [Project 3: Object Detection](/projects/project3)
 - ...
