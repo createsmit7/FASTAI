@@ -20,25 +20,13 @@ This repository contains my notes and projects from the Fastai course taught by 
 
 You can find all the course materials, including lectures, notebooks, and additional resources, on the [Fastai course website](https://course.fast.ai/). Make sure to check the official website for the most up-to-date content.
 
-## Notes
-
-I've taken detailed notes throughout the course to help me understand the concepts better. You can find my notes organized by course modules in the [notes](/notes) directory.
-
-- [Module 1: Introduction to Deep Learning](/notes/module1.md)
-- [Module 2: Data Cleaning and Production](/notes/module2.md)
-- [Module 3: Data Blocks](/notes/module3.md)
-- ...
-
-Feel free to use these notes for your reference, but remember that they are based on my understanding, and I recommend referring to the official course materials for the most accurate information.
-
 ## Projects
 
 In this repository, I'm also working on practical projects related to the Fastai course. You can find my project implementations in the [projects](/projects) directory.
 
 - [Project 1: Image Classification](/projects/fastAi_1_Donkey_Or_Horse.ipynb)
 - [Project 2: Natural Language Processing](/projects/project2)
-- [Project 3: Object Detection](/projects/project3)
-- ...
+
 
 Each project directory contains code, datasets, and documentation related to the project. Feel free to explore and use these projects as examples for your own work.
 
